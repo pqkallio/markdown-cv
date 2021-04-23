@@ -28,11 +28,11 @@ Uudelleenkäytettävää ja helposti testattavaa koodia.
 - C#
 - Clojure
 - Java
-- Bash
 
 ### Teknologiaosaaminen
 
 - Git
+- Bash
 - Linux
 - Microsoft Azure
 - Docker
