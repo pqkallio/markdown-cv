@@ -6,7 +6,7 @@ title: Petri Kallio, Curriculum Vitae
 Fullstack-ohjelmistokehittäjä.
 
 <div id="webaddress">
-<a href="https://github.com/pqkallio">Github</a>
+<a href="https://github.com/pqkallio">Github-sivuni</a>
 </div>
 
 
@@ -64,13 +64,13 @@ Kehitän ja laajennan jatkuvasti osaamistani tekemällä verkkokursseja ja omia 
 ## Koulutus
 
 `2018-`
-__Helsingin yliopisto, Luonnontieteellinen tiedekunta__
+__Helsingin yliopisto, luonnontieteellinen tiedekunta__
 
 - Master of Science, Computer Science
 - Linja: Programming Techniques
 
 `2016-2018`
-__Helsingin yliopisto, Luonnontieteellinen tiedekunta__
+__Helsingin yliopisto, luonnontieteellinen tiedekunta__
 
 - Luonnontieteiden kandidaatti
 - Pääaine: Tietojenkäsittelytiede
@@ -105,20 +105,20 @@ __Hyvinkään yhteiskoulun lukio__
 ## Työura
 
 `22.10.2018-`
-Helsingin kaupunki, kasvatuksen ja koulutuksen toimiala, tietohallintopalvelut
+__Helsingin kaupunki, kasvatuksen ja koulutuksen toimiala, tietohallintopalvelut__
 
 - Ohjelmistokehittäjä
 - Kuntalaisille tarkoitettu iltapäivätoimipaikkojen hakusovellus, jossa taustajärjestelmä on toteutettu Go-ohjelmointikielellä ja web-käyttöliittymä TypeScript-ohjelmointikielellä sekä React-käyttöliittymäkirjastolla. Muita käytettyjä teknologioita: MariaDB, Leaflet-karttakirjasto, Microsoft Azure, Nginx, liittymät useisiin eri rajapintoihin.
 - Mikropalveluarkkitehtuurilla toteutettu IoT-järjestelmä, jossa palvelut on toteutettu Go-ohjelmointikielellä ja web-käyttöliittymä TypeScript-ohjelmointikielella sekä React-käyttöliittymäkirjastolla. Järjestelmä tuottaa ajantasaista tietoa rakennusten huoneiden tiloista käyttäjille. Käytetyt teknologiat: LoRa IoT -laitteet, LoRaWAN-gateway, Raspberry Pi, OpenCV, Microsoft Azure, Philips Hue, Redis, Nginx.
 
 `1.9.2015-21.10.2018`
-Helsingin kaupunki, Palvelukeskus Helsinki
+__Helsingin kaupunki, Palvelukeskus Helsinki__
 
 - Microsoft CRM asiakkuuksienhallintajärjestelmän pääkäyttäjä. Järjestelmän muokkaaminen, toimittajayhteistyö, projektinhallinta ja käyttöliittymän ohjelmointi JavaScript-ohjelmointikielellä
 - Sisäinen raportointi. Toiminnan raporttien koostaminen useista eri MySQL ja Transact-SQL -tietokannoista.
 
 `16.6.2010-31.8.2015`
-Helsingin kaupunki, Palvelukeskus Helsinki
+__Helsingin kaupunki, Palvelukeskus Helsinki__
 
 - Puhelunvälittäjä, Helsingin kaupungin puhelinvaihde
 - Asiakaspalvelija, Helsingin Matkapalvelun call center
@@ -127,57 +127,57 @@ Helsingin kaupunki, Palvelukeskus Helsinki
 - Palveluesimies, Helsingin Matkapalvelun call center
 
 `1.6.2010-31.12.2010`
-Birdland Jazz Club, Helsinki
+__Birdland Jazz Club, Helsinki__
 
 - Livemiksaaja
 
 `2009, kesä`
-Helsingin kaupunki
+__Helsingin kaupunki__
 
 - Puhelunvälittäjä
 
 `2008, kesä`
-Helsingin kaupunki
+__Helsingin kaupunki__
 
 - Puhelunvälittäjä
 
 `21.4.-21.5.2004`
-Riihimäen kaupunki
+__Riihimäen kaupunki__
 
 - Englanninkielen lehtorin sijaisuuksia
 
 `12.8.2002-31.6.2003`
-Riihimäen kaupunki
+__Riihimäen kaupunki__
 
 - Koulukäyntiavustaja
 
 `2003, kesä`
-Vistadel Oy
+__Vistadel Oy__
 
 - Varastotyöntekijä
 
 `2002, kesä`
-Libri-logistiikka Oy
+__Libri-logistiikka Oy__
 
 - Varastotyöntekijä
 
 `14.5.2001-21.12.2001`
-Onninen Oy
+__Onninen Oy__
 
 - Varastotyöntekijä
 
 `2000, kesä`
-Onninen Oy
+__Onninen Oy__
 
 - Varastotyöntekijä
 
 `1999, kesä`
-Onninen Oy
+__Onninen Oy__
 
 - Varastotyöntekijä
 
 `1998, kesä`
-Onninen Oy
+__Onninen Oy__
 
 - Varastotyöntekijä
 
