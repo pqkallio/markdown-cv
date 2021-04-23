@@ -28,10 +28,12 @@ Uudelleenkäytettävää ja helposti testattavaa koodia.
 - C#
 - Clojure
 - Java
+- Bash
 
 ### Teknologiaosaaminen
 
 - Git
+- Linux
 - Microsoft Azure
 - Docker
 - SQL-kannat (MySQL, MariaDB, Transact-SQL, PostgreSQL)
