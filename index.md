@@ -47,6 +47,12 @@ Uudelleenkäytettävää ja helposti testattavaa koodia.
 - Jira
 - SCSS
 
+### Kielet
+
+- englanti, luettu kiitettävä, puhuttu hyvä
+- espanja, luettu hyvä, puhuttu tyydyttävä
+- ruotsi, luettu tyydyttävä, puhuttu välttävä
+- ranska, luettu tyydyttävä, puhuttu välttävä
 
 ## Koulutus
 
@@ -112,6 +118,37 @@ Helsingin kaupunki, Palvelukeskus Helsinki
 - Kouluttaja, Helsingin kaupungin puhelinvaihde
 - Tiiminvetäjä, Helsingin kaupungin puhelinvaihde
 - Palveluesimies, Helsingin Matkapalvelun call center
+
+`1.6.2010-31.12.2010`
+Birdland Jazz Club, Helsinki
+
+- Livemiksaaja
+
+`2009, kesä`
+Helsingin kaupunki
+
+- Puhelunvälittäjä
+
+`2008, kesä`
+Helsingin kaupunki
+
+- Puhelunvälittäjä
+
+`21.4.-21.5.2004`
+Riihimäen kaupunki
+
+- Englanninkielen lehtorin sijaisuuksia
+
+`12.8.2002-31.6.2003`
+Riihimäen kaupunki
+
+- Koulukäyntiavustaja
+
+
+`2003, kesä`
+Vistadel Oy
+
+- Varastotyöntekijä
 
 <!-- ### Footer
 
