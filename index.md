@@ -1,23 +1,34 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Petri Kallio, Curriculum Vitae
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Petri Kallio
+Ohjelmistokehittäjä.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="kallionpetri@gmail.com">kallionpetri@gmail.com</a>
+| <a href="https://github.com/pqkallio">Github</a>
 </div>
 
 
-## Currently
+## Profiili
 
-Standing on the shoulders of giants
+Tarkkanäköinen, luova ja luotettava ohjelmistokehittäjä.
 
-### Specialized in
+### Erikoisosaaminen
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+#### Ohjelmointikielet
+
+- Go
+- Python
+- Ruby
+- TypeScript
+- JavaScript
+- C
+- C++
+- C#
+- Clojure
+- Java
 
 
 ### Research interests
