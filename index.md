@@ -15,9 +15,9 @@ Ohjelmistokehittäjä.
 
 Tarkkanäköinen, luova ja luotettava ohjelmistokehittäjä.
 
-### Erikoisosaaminen
+## Osaaminen
 
-#### Ohjelmointikielet
+### Ohjelmointikielet
 
 - Go
 - Python
