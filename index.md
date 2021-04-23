@@ -6,14 +6,13 @@ title: Petri Kallio, Curriculum Vitae
 Ohjelmistokehittäjä.
 
 <div id="webaddress">
-<a href="kallionpetri@gmail.com">kallionpetri@gmail.com</a>
-| <a href="https://github.com/pqkallio">Github</a>
+<a href="https://github.com/pqkallio">Github</a>
 </div>
 
 
 ## Profiili
 
-Tarkkanäköinen, luova ja luotettava ohjelmistokehittäjä.
+Tarkkanäköinen, luova ja luotettava ohjelmistokehittäjä. Pyrin kirjoittamaan aina uudelleenkäytettävää, helposti testattavaa koodia.
 
 ## Osaaminen
 
@@ -33,14 +32,18 @@ Tarkkanäköinen, luova ja luotettava ohjelmistokehittäjä.
 
 ### Teknologiaosaaminen
 
+- Git
 - Microsoft Azure
-- SQL-kannat (MySQL, Transact-SQL, PostgreSQL)
+- SQL-kannat (MySQL, MariaDB, Transact-SQL, PostgreSQL)
 - Lora IoT
 - OpenLayers
 - OpenCV
 - NoSQL (MongoDB)
 - Raspberry Pi
 - Arduino
+- Github Actions
+- Jenkins
+- Travis
 
 
 ## Koulutus
@@ -48,8 +51,8 @@ Tarkkanäköinen, luova ja luotettava ohjelmistokehittäjä.
 `2018-`
 __Helsingin yliopisto, Luonnontieteellinen tiedekunta__
 
-- Master of science, Computer Science
-- Linja: Programming techniques
+- Master of Science, Computer Science
+- Linja: Programming Techniques
 
 `2016-2018`
 __Helsingin yliopisto, Luonnontieteellinen tiedekunta__
@@ -84,50 +87,19 @@ __Hyvinkään yhteiskoulun lukio__
 - Ylioppilastutkinto
 
 
-## Awards
+## Työura
 
-`2012`
-President, *Royal Society*, London, UK
+`22.10.2018-`
+Helsingin kaupunki, kasvatuksen ja koulutuksen toimiala, tietohallintopalvelut
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Ohjelmistokehittäjä
+- Kuntalaisille tarkoitettu iltapäivätoimipaikkojen hakusovellus, jossa taustajärjestelmä on toteutettu Go-ohjelmointikielellä ja web-käyttöliittymä TypeScript-ohjelmointikielellä sekä React-käyttöliittymäkirjastolla. Muita käytettyjä teknologioita: MariaDB, Leaflet-karttakirjasto, Microsoft Azure, Nginx, liittymät useisiin eri rajapintoihin.
+- Mikropalveluarkkitehtuurilla toteutettu IoT-järjestelmä, jossa palvelut on toteutettu Go-ohjelmointikielellä ja web-käyttöliittymä TypeScript-ohjelmointikielella sekä React-käyttöliittymäkirjastolla. Järjestelmä tuottaa ajantasaista tietoa rakennusten huoneiden tiloista käyttäjille. Käytetyt teknologiat: LoRa IoT -laitteet, LoRaWAN-gateway, Raspberry Pi, OpenCV, Microsoft Azure, Philips Hue, Redis, Nginx.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Päivitetty: 23.4.2021 -->
 
 
