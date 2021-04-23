@@ -2,7 +2,7 @@
 layout: cv
 title: Petri Kallio, Curriculum Vitae
 ---
-# Petri Kallio
+# Petri Kallio, CV
 Fullstack-ohjelmistokehittäjä.
 
 <div id="webaddress">
