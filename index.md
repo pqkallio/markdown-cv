@@ -13,9 +13,9 @@ Fullstack-ohjelmistokehittäjä.
 
 ## Profiili
 
-Olen järjestelmällinen, luova ja tarkkanäköinen ohjelmistokehittäjä. Tavoitteenani on aina kirjoittaa uudelleenkäytettävää ja helposti testattavaa koodia. Varsinkin taustajärjestelmien ja rajapintojen ohjelmointi on minulle mieluista, mutta käyttöliittymäohjelmointi luo aina mukavaa vastapainoa piilossa olevan toiminnallisuuden toteuttamiseen.
+Olen järjestelmällinen, luova ja tarkkanäköinen ohjelmistokehittäjä. Tavoitteenani on aina kirjoittaa uudelleenkäytettävää ja helposti testattavaa koodia. Varsinkin taustajärjestelmien ja rajapintojen ohjelmointi on minulle mieluista, mutta käyttöliittymäohjelmointi myös luo aina mukavaa vastapainoa piilossa olevan toiminnallisuuden toteuttamiseen. Hallitsen myös DevOpsin perinteisen CI/CD-pipelinen osalta.
 
-Kehitän ja laajennan jatkuvasti osaamistani esimerkiksi verkkokurssien ja omien ohjelmointiprojektien avulla.
+Kehitän ja laajennan jatkuvasti osaamistani esimerkiksi verkkokurssien, omien ohjelmointiprojektien sekä HackLab-tovereiden kanssa toteutettavien projektien avulla.
 
 ## Osaaminen
 
@@ -95,7 +95,7 @@ __Hämeen panssaripataljoona, panssarijääkärikomppania__
 `2003-2006`
 __Helsingin yliopisto, humanistinen tiedekunta__
 
-- Yliopplias, espanjalainen filologia
+- Ylioppilas, espanjalainen filologia
 
 `1998-2001`
 __Hyvinkään yhteiskoulun lukio__
@@ -115,7 +115,7 @@ __Helsingin kaupunki, kasvatuksen ja koulutuksen toimiala, tietohallintopalvelut
 `1.9.2015-21.10.2018`
 __Helsingin kaupunki, Palvelukeskus Helsinki__
 
-- Microsoft CRM asiakkuuksienhallintajärjestelmän pääkäyttäjä. Järjestelmän muokkaaminen, toimittajayhteistyö, projektinhallinta ja käyttöliittymän ohjelmointi JavaScript-ohjelmointikielellä
+- Microsoft CRM asiakkuuksienhallintajärjestelmän pääkäyttäjä. Järjestelmän muokkaaminen, toimittajayhteistyö, projektinhallinta ja käyttöliittymän ohjelmointi JavaScript-ohjelmointikielellä.
 - Sisäinen raportointi. Toiminnan raporttien koostaminen useista eri MySQL ja Transact-SQL -tietokannoista.
 
 `16.6.2010-31.8.2015`
