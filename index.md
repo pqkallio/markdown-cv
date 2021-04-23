@@ -12,7 +12,7 @@ Ohjelmistokehittäjä.
 
 ## Profiili
 
-Tarkkanäköinen, luova ja luotettava ohjelmistokehittäjä. Pyrin kirjoittamaan aina uudelleenkäytettävää, helposti testattavaa koodia.
+Uudelleenkäytettävää ja helposti testattavaa koodia.
 
 ## Osaaminen
 
@@ -44,6 +44,7 @@ Tarkkanäköinen, luova ja luotettava ohjelmistokehittäjä. Pyrin kirjoittamaan
 - Github Actions
 - Jenkins
 - Travis
+- Microsoft CRM
 
 
 ## Koulutus
@@ -96,7 +97,11 @@ Helsingin kaupunki, kasvatuksen ja koulutuksen toimiala, tietohallintopalvelut
 - Kuntalaisille tarkoitettu iltapäivätoimipaikkojen hakusovellus, jossa taustajärjestelmä on toteutettu Go-ohjelmointikielellä ja web-käyttöliittymä TypeScript-ohjelmointikielellä sekä React-käyttöliittymäkirjastolla. Muita käytettyjä teknologioita: MariaDB, Leaflet-karttakirjasto, Microsoft Azure, Nginx, liittymät useisiin eri rajapintoihin.
 - Mikropalveluarkkitehtuurilla toteutettu IoT-järjestelmä, jossa palvelut on toteutettu Go-ohjelmointikielellä ja web-käyttöliittymä TypeScript-ohjelmointikielella sekä React-käyttöliittymäkirjastolla. Järjestelmä tuottaa ajantasaista tietoa rakennusten huoneiden tiloista käyttäjille. Käytetyt teknologiat: LoRa IoT -laitteet, LoRaWAN-gateway, Raspberry Pi, OpenCV, Microsoft Azure, Philips Hue, Redis, Nginx.
 
+`1.9.2015-21.10.2018`
+Helsingin kaupunki, Palvelukeskus Helsinki
 
+- Microsoft CRM asiakkuuksienhallintajärjestelmän pääkäyttäjä. Järjestelmän muokkaaminen, toimittajayhteistyö, projektinhallinta ja käyttöliittymän ohjelmointi JavaScript-ohjelmointikielellä
+- Sisäinen raportointi. Toiminnan raporttien koostaminen useista eri MySQL ja Transact-SQL -tietokannoista.
 
 <!-- ### Footer
 
