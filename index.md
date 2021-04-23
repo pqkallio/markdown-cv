@@ -15,7 +15,7 @@ Fullstack-ohjelmistokehittäjä.
 
 Olen järjestelmällinen, luova ja tarkkanäköinen ohjelmistokehittäjä. Tavoitteenani on aina kirjoittaa uudelleenkäytettävää ja helposti testattavaa koodia. Varsinkin taustajärjestelmien ja rajapintojen ohjelmointi on minulle mieluista, mutta käyttöliittymäohjelmointi luo aina mukavaa vastapainoa piilossa olevan toiminnallisuuden toteuttamiseen.
 
-Kehitän ja laajennan jatkuvasti osaamistani tekemällä verkkokursseja ja omia ohjelmointiprojekteja.
+Kehitän ja laajennan jatkuvasti osaamistani esimerkiksi verkkokurssien ja omien ohjelmointiprojektien avulla.
 
 ## Osaaminen
 
