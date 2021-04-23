@@ -33,6 +33,7 @@ Uudelleenkäytettävää ja helposti testattavaa koodia.
 
 - Git
 - Microsoft Azure
+- Docker
 - SQL-kannat (MySQL, MariaDB, Transact-SQL, PostgreSQL)
 - Lora IoT
 - OpenLayers
@@ -144,11 +145,36 @@ Riihimäen kaupunki
 
 - Koulukäyntiavustaja
 
-
 `2003, kesä`
 Vistadel Oy
 
 - Varastotyöntekijä
+
+`2002, kesä`
+Libri-logistiikka Oy
+
+- Varastotyöntekijä
+
+`14.5.2001-21.12.2001`
+Onninen Oy
+
+- Varastotyöntekijä
+
+`2000, kesä`
+Onninen Oy
+
+- Varastotyöntekijä
+
+`1999, kesä`
+Onninen Oy
+
+- Varastotyöntekijä
+
+`1998, kesä`
+Onninen Oy
+
+- Varastotyöntekijä
+
 
 <!-- ### Footer
 
