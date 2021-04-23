@@ -28,7 +28,6 @@ Uudelleenkäytettävää ja helposti testattavaa koodia.
 - C#
 - Clojure
 - Java
-- Ruby
 
 ### Teknologiaosaaminen
 
@@ -45,6 +44,8 @@ Uudelleenkäytettävää ja helposti testattavaa koodia.
 - Jenkins
 - Travis
 - Microsoft CRM
+- Jira
+- SCSS
 
 
 ## Koulutus
@@ -75,7 +76,7 @@ __Pop & Jazz Konservatorio, Helsinki__
 `2006-2007`
 __Hämeen panssaripataljoona, panssarijääkärikomppania__
 
-- Alikersantti, BMP-2 rynnäkköpanssarivaunun johtaja
+- Aliupseerikoulutus, BMP-2 rynnäkköpanssarivaunun johtaja
 
 `2003-2006`
 __Helsingin yliopisto, humanistinen tiedekunta__
@@ -102,6 +103,15 @@ Helsingin kaupunki, Palvelukeskus Helsinki
 
 - Microsoft CRM asiakkuuksienhallintajärjestelmän pääkäyttäjä. Järjestelmän muokkaaminen, toimittajayhteistyö, projektinhallinta ja käyttöliittymän ohjelmointi JavaScript-ohjelmointikielellä
 - Sisäinen raportointi. Toiminnan raporttien koostaminen useista eri MySQL ja Transact-SQL -tietokannoista.
+
+`16.6.2010-31.8.2015`
+Helsingin kaupunki, Palvelukeskus Helsinki
+
+- Puhelunvälittäjä, Helsingin kaupungin puhelinvaihde
+- Asiakaspalvelija, Helsingin Matkapalvelun call center
+- Kouluttaja, Helsingin kaupungin puhelinvaihde
+- Tiiminvetäjä, Helsingin kaupungin puhelinvaihde
+- Palveluesimies, Helsingin Matkapalvelun call center
 
 <!-- ### Footer
 
