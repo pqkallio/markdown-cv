@@ -6,8 +6,8 @@ title: Petri Kallio, Curriculum Vitae
 Fullstack-ohjelmistokehittäjä.
 
 <div id="webaddress">
-  <a href="https://www.linkedin.com/in/petri-kallio-a22288105/">LinkedIn</a> | 
-  <a href="https://github.com/pqkallio">Github</a>
+  <a href="https://github.com/pqkallio">Github</a> | 
+  <a href="https://www.linkedin.com/in/petri-kallio-a22288105/">LinkedIn</a>
 </div>
 
 
