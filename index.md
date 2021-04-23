@@ -29,28 +29,59 @@ Tarkkanäköinen, luova ja luotettava ohjelmistokehittäjä.
 - C#
 - Clojure
 - Java
+- Ruby
+
+### Teknologiaosaaminen
+
+- Microsoft Azure
+- SQL-kannat (MySQL, Transact-SQL, PostgreSQL)
+- Lora IoT
+- OpenLayers
+- OpenCV
+- NoSQL (MongoDB)
+- Raspberry Pi
+- Arduino
 
 
-### Research interests
+## Koulutus
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2018-`
+__Helsingin yliopisto, Luonnontieteellinen tiedekunta__
 
+- Master of science, Computer Science
+- Linja: Programming techniques
 
-## Education
+`2016-2018`
+__Helsingin yliopisto, Luonnontieteellinen tiedekunta__
 
-`1654-1660`
-__The King's School, Grantham.__
+- Luonnontieteiden kandidaatti
+- Pääaine: Tietojenkäsittelytiede
+- Laaja sivuaine: Matematiikka
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2014-2016`
+__Helsingin yliopisto, Avoin yliopisto__
 
-- Sizar
+- Tietojenkäsittelytieteen perusopinnot
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2007-2010`
+__Pop & Jazz Konservatorio, Helsinki__
 
-- Fellow
+- Musiikkialan perustutkinto, musiikkiteknologian koulutuslinja
 
+`2006-2007`
+__Hämeen panssaripataljoona, panssarijääkärikomppania__
+
+- Alikersantti, BMP-2 rynnäkköpanssarivaunun johtaja
+
+`2003-2006`
+__Helsingin yliopisto, humanistinen tiedekunta__
+
+- Yliopplias, espanjalainen filologia
+
+`1998-2001`
+__Hyvinkään yhteiskoulun lukio__
+
+- Ylioppilastutkinto
 
 
 ## Awards
