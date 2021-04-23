@@ -3,7 +3,7 @@ layout: cv
 title: Petri Kallio, Curriculum Vitae
 ---
 # Petri Kallio
-Ohjelmistokehittäjä.
+Fullstack-ohjelmistokehittäjä.
 
 <div id="webaddress">
 <a href="https://github.com/pqkallio">Github</a>
@@ -12,7 +12,9 @@ Ohjelmistokehittäjä.
 
 ## Profiili
 
-Uudelleenkäytettävää ja helposti testattavaa koodia.
+Olen järjestelmällinen, luova ja tarkkanäköinen ohjelmistokehittäjä. Tavoitteenani on aina kirjoittaa uudelleenkäytettävää ja helposti testattavaa koodia. Varsinkin taustajärjestelmien ja rajapintojen ohjelmointi on minulle mieluista, mutta käyttöliittymäohjelmointi luo aina mukavaa vastapainoa piilossa olevan toiminnallisuuden toteuttamiseen.
+
+Kehitän ja laajennan jatkuvasti osaamistani tekemällä verkkokursseja ja omia ohjelmointiprojekteja.
 
 ## Osaaminen
 
@@ -28,6 +30,7 @@ Uudelleenkäytettävää ja helposti testattavaa koodia.
 - C#
 - Clojure
 - Java
+- GDScript
 
 ### Teknologiaosaaminen
 
@@ -49,6 +52,7 @@ Uudelleenkäytettävää ja helposti testattavaa koodia.
 - Microsoft CRM
 - Jira
 - SCSS
+- Godot game engine
 
 ### Kielet
 
