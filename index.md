@@ -105,7 +105,15 @@ __Hyvinkään yhteiskoulun lukio__
 
 ## Työura
 
-`22.10.2018-`
+`7.6.2021-`
+__Positive Learning Ltd.__
+
+- Fullstack developer
+- Backend-ohjelmistokehitys, Go
+- Frontend-ohjelmistokehitys, TypeScript / React
+- Mobiili-ohjelmistokehitys, TypeScript / React Native
+
+`22.10.2018-6.6.2021`
 __Helsingin kaupunki, kasvatuksen ja koulutuksen toimiala, tietohallintopalvelut__
 
 - Ohjelmistokehittäjä
