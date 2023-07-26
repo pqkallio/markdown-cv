@@ -13,7 +13,7 @@ Fullstack-ohjelmistokehittäjä.
 
 ## Profiili
 
-Olen järjestelmällinen, luova ja tarkkanäköinen ohjelmistokehittäjä. Tavoitteenani on aina kirjoittaa uudelleenkäytettävää ja helposti testattavaa koodia. Varsinkin taustajärjestelmien ja rajapintojen ohjelmointi on minulle mieluista, mutta käyttöliittymäohjelmointi myös luo aina mukavaa vastapainoa piilossa olevan toiminnallisuuden toteuttamiseen. Hallitsen myös DevOpsin perinteisen CI/CD-pipelinen osalta.
+Olen järjestelmällinen, luova ja tarkkanäköinen ohjelmistokehittäjä. Tavoitteenani on kirjoittaa uudelleenkäytettävää ja helposti testattavaa koodia. Varsinkin taustajärjestelmien ja rajapintojen ohjelmointi on minulle mieluista, mutta käyttöliittymäohjelmointi luo aina mukavaa vastapainoa piilossa olevan toiminnallisuuden toteuttamiseen. Hallitsen myös DevOpsin perinteisen CI/CD-pipelinen osalta.
 
 Kehitän ja laajennan jatkuvasti osaamistani esimerkiksi verkkokurssien, omien ohjelmointiprojektien sekä HackLab-tovereiden kanssa toteutettavien projektien avulla.
 
@@ -32,6 +32,7 @@ Kehitän ja laajennan jatkuvasti osaamistani esimerkiksi verkkokurssien, omien o
 - Clojure
 - Java
 - GDScript
+
 
 ### Teknologiaosaaminen
 
@@ -54,6 +55,8 @@ Kehitän ja laajennan jatkuvasti osaamistani esimerkiksi verkkokurssien, omien o
 - Jira
 - SCSS
 - Godot game engine
+- Directus
+
 
 ### Kielet
 
@@ -61,6 +64,7 @@ Kehitän ja laajennan jatkuvasti osaamistani esimerkiksi verkkokurssien, omien o
 - espanja, luettu hyvä, puhuttu tyydyttävä
 - ruotsi, luettu tyydyttävä, puhuttu välttävä
 - ranska, luettu tyydyttävä, puhuttu välttävä
+
 
 ## Koulutus
 
@@ -109,7 +113,7 @@ __Hyvinkään yhteiskoulun lukio__
 __Positive Learning Ltd.__
 
 - Fullstack developer
-- Backend-ohjelmistokehitys, Go
+- Backend-ohjelmistokehitys, Go / NodeJS
 - Frontend-ohjelmistokehitys, TypeScript / React
 - Mobiili-ohjelmistokehitys, TypeScript / React Native
 
@@ -123,6 +127,7 @@ __Helsingin kaupunki, kasvatuksen ja koulutuksen toimiala, tietohallintopalvelut
 `1.9.2015-21.10.2018`
 __Helsingin kaupunki, Palvelukeskus Helsinki__
 
+- Järjestelmäsuunnittelija
 - Microsoft CRM asiakkuuksienhallintajärjestelmän pääkäyttäjä. Järjestelmän muokkaaminen, toimittajayhteistyö, projektinhallinta ja käyttöliittymän ohjelmointi JavaScript-ohjelmointikielellä.
 - Sisäinen raportointi. Toiminnan raporttien koostaminen useista eri MySQL ja Transact-SQL -tietokannoista.
 
@@ -193,6 +198,6 @@ __Onninen Oy__
 
 <!-- ### Footer
 
-Päivitetty: 23.4.2021 -->
+Päivitetty: 26.7.2023 -->
 
 
