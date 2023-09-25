@@ -109,7 +109,12 @@ __Hyvinkään yhteiskoulun lukio__
 
 ## Työura
 
-`7.6.2021-`
+`4.9.2023-`
+__Koud Oy__
+
+- Software developer
+
+`7.6.2021-3.9.2023`
 __Positive Learning Ltd.__
 
 - Fullstack developer
